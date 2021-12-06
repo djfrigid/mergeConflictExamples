@@ -1,6 +1,10 @@
 # mergeConflictExamples
 
+
+
+
 ## This is a secondary heading
+Ria's updates
 Under this heading, there is some text
 
 - item 1
